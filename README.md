@@ -1,2 +1,2 @@
-# Bharatintern-repo
-In this repo we make temeprature converter and netflix homepage by using Html,css,js.
+# Task 1
+In this we make temeprature converter and netflix homepage by using Html,css,js.
